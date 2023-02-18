@@ -156,3 +156,5 @@ const config = {
     canvas.height = config.video.height
     console.log("Canvas initialized")
   });
+
+  
